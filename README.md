@@ -2,15 +2,15 @@
 
 Practice to develop a 3-d rendered game
 
-_frontend_:
+__frontend__:
 
 React js
 Three js
 
-_api_:
+__api__:
 
-socket.io for live gameplay
+express.js / socket.io for live gameplay
 
-_backend_:
+__backend__:
 
 Azures database
