@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "tictactoesqlserver.database.windows.net",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "MySQL Server",
+            "database": "tictactoe_database",
+            "username": "christina8711",
+            "password": "knightHacks8711"
+        }
+    ]
+}
