@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("../fonts/RolexLight.woff2");
+}
+
+.custom-button {
+  width: 40%;
+  height: 3em;
+  background-color: rgb(32, 177, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  border-color: rgb(32, 177, 255);
+  border-radius: 0.25em;
+  cursor: pointer;
+}
+
+.custom-button:hover {
+  transform: scale(1.25);
+  background-color: #1e91cf;
+}
